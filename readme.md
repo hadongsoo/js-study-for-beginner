@@ -1,4 +1,4 @@
-# how to start JS for beginner
+# how to study JS for beginner
 
 ## 입문
 
